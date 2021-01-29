@@ -1,0 +1,9 @@
+Package: simplin
+Title: Running Simple Linear Regression with Rcpp
+Description: Some straightforward code to compute linear regression with one variable in R and C++.
+Version: 0.1
+LazyData: true
+LinkingTo: Rcpp
+Imports: Rcpp
+VignetteBuilder: knitr
+RoxygenNote: 7.1.1

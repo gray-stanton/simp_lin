@@ -1,0 +1,8 @@
+0. Ensure existence of DESCRIPTION file, which can delineate what packages to require etc.
+1. Ensure existence of a "package.R" file, with Roxygen code around useDynLib, so that generated NAMESPACE file links to Cpp objects
+2. Add [[exports]] boilerplate above cpp functions
+3. Add Roxygen documentation about R/Cpp functions
+4. Run Rcpp::compileAttributes() to compile all Cpp functions
+5. Run roxygen2::roxygenize() to update documentation/namespace
+6. Run devtools::build() to actually compile and zip up
+7. Run devtools::install() to install package within local R setup.
