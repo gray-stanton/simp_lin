@@ -1,0 +1,1600 @@
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 10    0.01 0.9528304 -1.064237 0.7556372 0.7556372 -1.254735
+         b1_upper pred_mse
+elapsed -1.254735 2.997701
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm  6   0.011 1.252877 -0.9628071 1.047666 1.047666 -1.174173
+         b1_upper pred_mse
+elapsed -1.174173 3.617485
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 18    0.01 0.8267793 -1.036125 0.6166552 0.6166552 -1.249593
+         b1_upper pred_mse
+elapsed -1.249593 2.887281
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 19    0.01 1.047833 -0.9828802 0.8611424 0.8611424 -1.151164
+         b1_upper pred_mse
+elapsed -1.151164 3.186422
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  9    0.01 0.9206685 -0.8327424 0.7160117 0.7160117 -1.044332
+         b1_upper pred_mse
+elapsed -1.044332 2.719152
+        method id runtime        b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm  7    0.01 0.9251704 -1.200522 0.6938836 0.6938836 -1.41624
+        b1_upper pred_mse
+elapsed -1.41624  4.02603
+        method id runtime        b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  5   0.009 0.9202433 -1.04747 0.7163495 0.7163495 -1.250334
+         b1_upper pred_mse
+elapsed -1.250334 2.886799
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 13    0.01 1.130108 -0.8388215 0.942372 0.942372 -1.021303
+         b1_upper pred_mse
+elapsed -1.021303 2.814356
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  2    0.01 1.154914 -0.9771361 0.9225534 0.9225534 -1.218484
+         b1_upper pred_mse
+elapsed -1.218484 3.898406
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  8   0.009 1.117397 -0.9489969 0.9067486 0.9067486 -1.176715
+         b1_upper pred_mse
+elapsed -1.176715 3.305454
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  4    0.01 0.9537135 -0.9511812 0.7407267 0.7407267 -1.175656
+         b1_upper pred_mse
+elapsed -1.175656 2.818529
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 17    0.01 0.9822677 -0.8781021 0.7722484 0.7722484 -1.102934
+         b1_upper pred_mse
+elapsed -1.102934  2.79601
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 14    0.01 1.177455 -0.9127065 0.9851235 0.9851235 -1.085141
+         b1_upper pred_mse
+elapsed -1.085141 2.866672
+        method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 12    0.01 1.11739 -1.058369 0.9155696 0.9155696 -1.263938
+         b1_upper pred_mse
+elapsed -1.263938 3.084699
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 15    0.01 0.8379234 -0.9329777 0.6549629 0.6549629 -1.119154
+         b1_upper pred_mse
+elapsed -1.119154 2.313853
+        method id runtime       b0        b1 b0_lower b0_upper b1_lower
+elapsed     lm  1    0.01 1.149414 -1.156452 0.934182 0.934182 -1.36932
+        b1_upper pred_mse
+elapsed -1.36932 3.472595
+        method id runtime        b0       b1  b0_lower  b0_upper b1_lower
+elapsed     lm 16    0.01 0.9753174 -1.16218 0.7695849 0.7695849 -1.34888
+        b1_upper pred_mse
+elapsed -1.34888 4.049589
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  3    0.01 0.9709435 -0.8936955 0.7669451 0.7669451 -1.097779
+         b1_upper pred_mse
+elapsed -1.097779 2.707731
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 11    0.01 1.007571 -1.063295 0.8024716 0.8024716 -1.264762
+         b1_upper pred_mse
+elapsed -1.264762 3.031394
+        method id runtime      b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 20    0.01 1.09631 -0.9318275 0.8869841 0.8869841 -1.133521
+         b1_upper pred_mse
+elapsed -1.133521 3.404744
+        method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 21    0.01 1.038302 -1.02978 0.8220378 0.8220378 -1.264222
+         b1_upper pred_mse
+elapsed -1.264222 2.990244
+        method id runtime        b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 24    0.01 0.8797917 -0.8897061 0.665905 0.665905 -1.086229
+         b1_upper pred_mse
+elapsed -1.086229 2.529045
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 23    0.01 0.942539 -1.040748 0.7374005 0.7374005 -1.249924
+         b1_upper pred_mse
+elapsed -1.249924 3.001332
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 22    0.01 0.9654596 -1.012828 0.7757326 0.7757326 -1.193309
+         b1_upper pred_mse
+elapsed -1.193309 2.966421
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 25   0.009 0.8808242 -0.9820351 0.6956893 0.6956893 -1.137066
+         b1_upper pred_mse
+elapsed -1.137066 2.960953
+        method id runtime        b0         b1  b0_lower  b0_upper b1_lower
+elapsed     lm 27    0.01 0.8980301 -0.9819615 0.6888767 0.6888767 -1.20663
+        b1_upper pred_mse
+elapsed -1.20663 2.514325
+        method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 26   0.009 1.070074 -1.116061 0.867706 0.867706 -1.340365
+         b1_upper pred_mse
+elapsed -1.340365 3.003999
+        method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 28    0.01 1.14864 -1.003341 0.9550197 0.9550197 -1.200744
+         b1_upper pred_mse
+elapsed -1.200744  3.35634
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 29   0.009 1.069657 -0.940279 0.8597587 0.8597587 -1.163956
+         b1_upper pred_mse
+elapsed -1.163956 2.860535
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 30    0.01 1.097772 -0.974771 0.9122397 0.9122397 -1.170004
+         b1_upper pred_mse
+elapsed -1.170004 2.882766
+        method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 32   0.009 1.009296 -1.11507 0.8121058 0.8121058 -1.340294
+         b1_upper pred_mse
+elapsed -1.340294 2.932535
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 31    0.01 0.8881283 -1.115548 0.6889187 0.6889187 -1.331921
+         b1_upper pred_mse
+elapsed -1.331921 2.912885
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 33    0.01 0.9413364 -0.9924456 0.7624636 0.7624636 -1.162419
+         b1_upper pred_mse
+elapsed -1.162419    2.953
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 34    0.01 0.926989 -1.021035 0.7368589 0.7368589 -1.22153
+        b1_upper pred_mse
+elapsed -1.22153 2.846419
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 35    0.01 0.8661681 -1.048219 0.6763723 0.6763723 -1.232079
+         b1_upper pred_mse
+elapsed -1.232079 3.104665
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 38    0.01 0.8998472 -0.8873783 0.6713905 0.6713905 -1.113169
+         b1_upper pred_mse
+elapsed -1.113169 2.702062
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 37   0.009 0.8200169 -0.9343837 0.6240965 0.6240965 -1.121734
+         b1_upper pred_mse
+elapsed -1.121734 2.623413
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 36   0.011 1.101935 -1.229812 0.8913997 0.8913997 -1.441906
+         b1_upper pred_mse
+elapsed -1.441906 3.505716
+        method id runtime        b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 39    0.01 0.7843451 -1.04338 0.5844957 0.5844957 -1.251748
+         b1_upper pred_mse
+elapsed -1.251748  2.92649
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 40    0.01 1.119096 -1.104891 0.9214046 0.9214046 -1.30353
+        b1_upper pred_mse
+elapsed -1.30353 3.264931
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 41    0.01 1.047176 -0.9976711 0.8277207 0.8277207 -1.228403
+         b1_upper pred_mse
+elapsed -1.228403  3.11742
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 43    0.01 1.071576 -0.9285038 0.8633348 0.8633348 -1.121643
+         b1_upper pred_mse
+elapsed -1.121643 3.040284
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 42    0.01 1.169918 -0.9872687 0.9733532 0.9733532 -1.181016
+         b1_upper pred_mse
+elapsed -1.181016 3.140744
+        method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 44    0.01 1.076822 -1.15032 0.8429181 0.8429181 -1.367435
+         b1_upper pred_mse
+elapsed -1.367435 3.369138
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 45    0.01 0.925306 -1.007088 0.7503695 0.7503695 -1.174332
+         b1_upper pred_mse
+elapsed -1.174332 2.748448
+        method id runtime        b0       b1 b0_lower b0_upper  b1_lower
+elapsed     lm 46    0.01 0.9974778 -1.12627 0.774113 0.774113 -1.359258
+         b1_upper pred_mse
+elapsed -1.359258 3.480153
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 47    0.01 1.242802 -0.8677099 1.026378 1.026378 -1.114667
+         b1_upper pred_mse
+elapsed -1.114667 3.438791
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 48   0.009 0.9997984 -1.126539 0.8002053 0.8002053 -1.329945
+         b1_upper pred_mse
+elapsed -1.329945 3.498099
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 49    0.01 0.8370195 -1.077605 0.6351957 0.6351957 -1.281384
+         b1_upper pred_mse
+elapsed -1.281384 2.899121
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 51    0.01 0.8723514 -1.067504 0.7012699 0.7012699 -1.231504
+         b1_upper pred_mse
+elapsed -1.231504  2.94863
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 50    0.01 1.024346 -0.9142184 0.8535906 0.8535906 -1.097714
+         b1_upper pred_mse
+elapsed -1.097714 2.396465
+        method id runtime        b0        b1 b0_lower b0_upper b1_lower
+elapsed     lm 52    0.01 0.8826745 -1.134987 0.676388 0.676388 -1.34133
+        b1_upper pred_mse
+elapsed -1.34133 3.312908
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 53    0.01 0.9798268 -0.8209278 0.7694425 0.7694425 -1.046827
+         b1_upper pred_mse
+elapsed -1.046827 2.709098
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 54   0.009 1.064001 -1.170011 0.8667915 0.8667915 -1.378269
+         b1_upper pred_mse
+elapsed -1.378269  3.33221
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 55    0.01 1.036861 -1.048935 0.8571681 0.8571681 -1.252741
+         b1_upper pred_mse
+elapsed -1.252741  2.83447
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 57    0.01 1.056189 -0.9181322 0.8666741 0.8666741 -1.094159
+         b1_upper pred_mse
+elapsed -1.094159  2.98718
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 56    0.01 0.8570703 -0.8462397 0.6399388 0.6399388 -1.060811
+         b1_upper pred_mse
+elapsed -1.060811 2.687191
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 58    0.01 1.122482 -0.9073084 0.9568822 0.9568822 -1.061609
+         b1_upper pred_mse
+elapsed -1.061609 2.971656
+        method id runtime        b0         b1  b0_lower  b0_upper b1_lower
+elapsed     lm 59    0.01 0.9766116 -0.9189947 0.7683596 0.7683596 -1.11982
+        b1_upper pred_mse
+elapsed -1.11982   2.7206
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 60   0.009 1.016152 -0.9511029 0.802686 0.802686 -1.158506
+         b1_upper pred_mse
+elapsed -1.158506 3.272091
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 61   0.011 0.9972189 -1.114084 0.7929044 0.7929044 -1.330237
+         b1_upper pred_mse
+elapsed -1.330237 3.157208
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 62    0.01 1.108682 -0.8583146 0.890944 0.890944 -1.075571
+         b1_upper pred_mse
+elapsed -1.075571   3.0424
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 63   0.011 1.046655 -0.9841632 0.8388483 0.8388483 -1.188324
+         b1_upper pred_mse
+elapsed -1.188324 3.193056
+        method id runtime       b0       b1  b0_lower  b0_upper b1_lower
+elapsed     lm 64   0.011 0.989266 -1.02662 0.8002338 0.8002338 -1.22652
+        b1_upper pred_mse
+elapsed -1.22652 3.128604
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 66   0.014 1.065577 -1.072621 0.8822258 0.8822258 -1.24192
+        b1_upper pred_mse
+elapsed -1.24192 3.162265
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 65   0.016 1.033294 -1.014997 0.8614413 0.8614413 -1.17891
+        b1_upper pred_mse
+elapsed -1.17891 2.978542
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 67   0.012 0.8841065 -1.013198 0.7032865 0.7032865 -1.199791
+         b1_upper pred_mse
+elapsed -1.199791 2.570069
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 68    0.01 1.068787 -0.9016006 0.8517795 0.8517795 -1.131983
+         b1_upper pred_mse
+elapsed -1.131983  3.09602
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 71   0.018 1.126197 -0.9696633 0.9335837 0.9335837 -1.171077
+         b1_upper pred_mse
+elapsed -1.171077 3.267355
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 70   0.015 1.017712 -1.210438 0.8189276 0.8189276 -1.423825
+         b1_upper pred_mse
+elapsed -1.423825 3.404451
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 69   0.016 1.143255 -1.180865 0.9408502 0.9408502 -1.397577
+         b1_upper pred_mse
+elapsed -1.397577  3.80343
+        method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 74   0.009 1.084193 -1.033118 0.890328 0.890328 -1.211469
+         b1_upper pred_mse
+elapsed -1.211469 3.566943
+        method id runtime       b0        b1 b0_lower b0_upper b1_lower
+elapsed     lm 72   0.017 1.132182 -1.020075 0.928557 0.928557 -1.22256
+        b1_upper pred_mse
+elapsed -1.22256 3.415266
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 76   0.013 1.063434 -0.8735527 0.8490528 0.8490528 -1.061778
+         b1_upper pred_mse
+elapsed -1.061778 3.537427
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 73    0.01 1.103615 -0.9023739 0.9343686 0.9343686 -1.067964
+         b1_upper pred_mse
+elapsed -1.067964 2.389865
+        method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 75   0.012 1.07191 -1.068031 0.8874289 0.8874289 -1.250362
+         b1_upper pred_mse
+elapsed -1.250362 2.769347
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 77   0.012 0.948247 -0.8838904 0.7506086 0.7506086 -1.077489
+         b1_upper pred_mse
+elapsed -1.077489 2.656831
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 78   0.011 1.079805 -1.025116 0.8687389 0.8687389 -1.253928
+         b1_upper pred_mse
+elapsed -1.253928 2.903426
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 79   0.009 0.9390427 -0.9814145 0.7333591 0.7333591 -1.252208
+         b1_upper pred_mse
+elapsed -1.252208 2.394722
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 80    0.01 0.948809 -1.049348 0.7450625 0.7450625 -1.239575
+         b1_upper pred_mse
+elapsed -1.239575  3.15132
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 81   0.011 0.9337011 -1.191094 0.7508543 0.7508543 -1.361321
+         b1_upper pred_mse
+elapsed -1.361321 3.393412
+        method id runtime        b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 82    0.01 0.8558806 -1.022883 0.665124 0.665124 -1.210896
+         b1_upper pred_mse
+elapsed -1.210896  2.54536
+        method id runtime        b0         b1  b0_lower  b0_upper b1_lower
+elapsed     lm 83    0.01 0.9693568 -0.9202224 0.7757177 0.7757177 -1.12737
+        b1_upper pred_mse
+elapsed -1.12737 2.656494
+        method id runtime        b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 84    0.01 0.8534396 -0.91082 0.6664733 0.6664733 -1.106404
+         b1_upper pred_mse
+elapsed -1.106404 2.425242
+        method id runtime        b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 88    0.01 0.9300807 -1.12178 0.7482635 0.7482635 -1.288563
+         b1_upper pred_mse
+elapsed -1.288563 3.210995
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 85    0.01 0.9700917 -1.080764 0.7806524 0.7806524 -1.291107
+         b1_upper pred_mse
+elapsed -1.291107 2.739891
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 86    0.01 1.011403 -0.9974335 0.8173021 0.8173021 -1.233281
+         b1_upper pred_mse
+elapsed -1.233281 2.395663
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 87    0.01 0.9734277 -0.944026 0.7737353 0.7737353 -1.128705
+         b1_upper pred_mse
+elapsed -1.128705 3.209959
+        method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 90   0.009 1.263549 -1.200032 1.082312 1.082312 -1.383169
+         b1_upper pred_mse
+elapsed -1.383169 3.236313
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 89   0.009 0.9807305 -0.8829123 0.7931426 0.7931426 -1.098996
+         b1_upper pred_mse
+elapsed -1.098996  2.42164
+        method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 91   0.009 1.083221 -1.058329 0.883555 0.883555 -1.275071
+         b1_upper pred_mse
+elapsed -1.275071   3.5712
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 92    0.01 0.8278998 -1.008384 0.6302374 0.6302374 -1.198324
+         b1_upper pred_mse
+elapsed -1.198324 2.538091
+        method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 93   0.009 1.041726 -1.00707 0.8461383 0.8461383 -1.208988
+         b1_upper pred_mse
+elapsed -1.208988 2.554654
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 95    0.01 1.115777 -1.091809 0.8975956 0.8975956 -1.318723
+         b1_upper pred_mse
+elapsed -1.318723 3.555875
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 94    0.01 1.005888 -1.076014 0.8070191 0.8070191 -1.308306
+         b1_upper pred_mse
+elapsed -1.308306 2.760925
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 96    0.01 1.031844 -1.049308 0.8236838 0.8236838 -1.24511
+        b1_upper pred_mse
+elapsed -1.24511 3.471439
+        method id runtime        b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 97    0.01 0.9071257 -0.8459492  0.71383  0.71383 -1.038741
+         b1_upper pred_mse
+elapsed -1.038741  2.41655
+        method id runtime       b0       b1 b0_lower b0_upper b1_lower b1_upper
+elapsed     lm 98    0.01 1.045157 -1.03331  0.82438  0.82438 -1.24959 -1.24959
+        pred_mse
+elapsed 3.274088
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 99    0.01 0.8579302 -1.229758 0.6571701 0.6571701 -1.424441
+         b1_upper pred_mse
+elapsed -1.424441 3.315168
+        method  id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 100   0.009 1.026072 -1.099603 0.8399045 0.8399045 -1.293519
+         b1_upper pred_mse
+elapsed -1.293519 2.575941
+              method id runtime       b0        b1 b0_lower b0_upper b1_lower
+elapsed simp_lin_cpp  1       0 1.149414 -1.156452 0.934182 0.934182 -1.36932
+        b1_upper pred_mse
+elapsed -1.36932 3.472595
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp  2   0.001 1.154914 -0.9771361 0.9225534 0.9225534
+         b1_lower  b1_upper pred_mse
+elapsed -1.218484 -1.218484 3.898406
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp  3   0.001 0.9709435 -0.8936955 0.7669451 0.7669451
+         b1_lower  b1_upper pred_mse
+elapsed -1.097779 -1.097779 2.707731
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp  4       0 0.9537135 -0.9511812 0.7407267 0.7407267
+         b1_lower  b1_upper pred_mse
+elapsed -1.175656 -1.175656 2.818529
+              method id runtime        b0       b1  b0_lower  b0_upper
+elapsed simp_lin_cpp  5       0 0.9202433 -1.04747 0.7163495 0.7163495
+         b1_lower  b1_upper pred_mse
+elapsed -1.250334 -1.250334 2.886799
+              method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp  6       0 1.252877 -0.9628071 1.047666 1.047666 -1.174173
+         b1_upper pred_mse
+elapsed -1.174173 3.617485
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp  7   0.001 0.9251704 -1.200522 0.6938836 0.6938836
+        b1_lower b1_upper pred_mse
+elapsed -1.41624 -1.41624  4.02603
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp  8   0.001 1.117397 -0.9489969 0.9067486 0.9067486
+         b1_lower  b1_upper pred_mse
+elapsed -1.176715 -1.176715 3.305454
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp  9       0 0.9206685 -0.8327424 0.7160117 0.7160117
+         b1_lower  b1_upper pred_mse
+elapsed -1.044332 -1.044332 2.719152
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 10   0.001 0.9528304 -1.064237 0.7556372 0.7556372
+         b1_lower  b1_upper pred_mse
+elapsed -1.254735 -1.254735 2.997701
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 11       0 1.007571 -1.063295 0.8024716 0.8024716
+         b1_lower  b1_upper pred_mse
+elapsed -1.264762 -1.264762 3.031394
+              method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed simp_lin_cpp 12   0.001 1.11739 -1.058369 0.9155696 0.9155696 -1.263938
+         b1_upper pred_mse
+elapsed -1.263938 3.084699
+              method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 13   0.001 1.130108 -0.8388215 0.942372 0.942372 -1.021303
+         b1_upper pred_mse
+elapsed -1.021303 2.814356
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 14       0 1.177455 -0.9127065 0.9851235 0.9851235
+         b1_lower  b1_upper pred_mse
+elapsed -1.085141 -1.085141 2.866672
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 15       0 0.8379234 -0.9329777 0.6549629 0.6549629
+         b1_lower  b1_upper pred_mse
+elapsed -1.119154 -1.119154 2.313853
+              method id runtime        b0       b1  b0_lower  b0_upper b1_lower
+elapsed simp_lin_cpp 16   0.001 0.9753174 -1.16218 0.7695849 0.7695849 -1.34888
+        b1_upper pred_mse
+elapsed -1.34888 4.049589
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 17       0 0.9822677 -0.8781021 0.7722484 0.7722484
+         b1_lower  b1_upper pred_mse
+elapsed -1.102934 -1.102934  2.79601
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 18   0.001 0.8267793 -1.036125 0.6166552 0.6166552
+         b1_lower  b1_upper pred_mse
+elapsed -1.249593 -1.249593 2.887281
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 19   0.001 1.047833 -0.9828802 0.8611424 0.8611424
+         b1_lower  b1_upper pred_mse
+elapsed -1.151164 -1.151164 3.186422
+              method id runtime      b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 20       0 1.09631 -0.9318275 0.8869841 0.8869841
+         b1_lower  b1_upper pred_mse
+elapsed -1.133521 -1.133521 3.404744
+              method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed simp_lin_cpp 21       0 1.038302 -1.02978 0.8220378 0.8220378 -1.264222
+         b1_upper pred_mse
+elapsed -1.264222 2.990244
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 22       0 0.9654596 -1.012828 0.7757326 0.7757326
+         b1_lower  b1_upper pred_mse
+elapsed -1.193309 -1.193309 2.966421
+              method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 26   0.001 1.070074 -1.116061 0.867706 0.867706 -1.340365
+         b1_upper pred_mse
+elapsed -1.340365 3.003999
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 27   0.001 0.8980301 -0.9819615 0.6888767 0.6888767
+        b1_lower b1_upper pred_mse
+elapsed -1.20663 -1.20663 2.514325
+              method id runtime        b0         b1 b0_lower b0_upper
+elapsed simp_lin_cpp 24       0 0.8797917 -0.8897061 0.665905 0.665905
+         b1_lower  b1_upper pred_mse
+elapsed -1.086229 -1.086229 2.529045
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 25       0 0.8808242 -0.9820351 0.6956893 0.6956893
+         b1_lower  b1_upper pred_mse
+elapsed -1.137066 -1.137066 2.960953
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 23   0.001 0.942539 -1.040748 0.7374005 0.7374005
+         b1_lower  b1_upper pred_mse
+elapsed -1.249924 -1.249924 3.001332
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 29       0 1.069657 -0.940279 0.8597587 0.8597587
+         b1_lower  b1_upper pred_mse
+elapsed -1.163956 -1.163956 2.860535
+              method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed simp_lin_cpp 28   0.001 1.14864 -1.003341 0.9550197 0.9550197 -1.200744
+         b1_upper pred_mse
+elapsed -1.200744  3.35634
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 31       0 0.8881283 -1.115548 0.6889187 0.6889187
+         b1_lower  b1_upper pred_mse
+elapsed -1.331921 -1.331921 2.912885
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 30       0 1.097772 -0.974771 0.9122397 0.9122397
+         b1_lower  b1_upper pred_mse
+elapsed -1.170004 -1.170004 2.882766
+              method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed simp_lin_cpp 32       0 1.009296 -1.11507 0.8121058 0.8121058 -1.340294
+         b1_upper pred_mse
+elapsed -1.340294 2.932535
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 35   0.001 0.8661681 -1.048219 0.6763723 0.6763723
+         b1_lower  b1_upper pred_mse
+elapsed -1.232079 -1.232079 3.104665
+              method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed simp_lin_cpp 34       0 0.926989 -1.021035 0.7368589 0.7368589 -1.22153
+        b1_upper pred_mse
+elapsed -1.22153 2.846419
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 33       0 0.9413364 -0.9924456 0.7624636 0.7624636
+         b1_lower  b1_upper pred_mse
+elapsed -1.162419 -1.162419    2.953
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 36       0 1.101935 -1.229812 0.8913997 0.8913997
+         b1_lower  b1_upper pred_mse
+elapsed -1.441906 -1.441906 3.505716
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 38       0 0.8998472 -0.8873783 0.6713905 0.6713905
+         b1_lower  b1_upper pred_mse
+elapsed -1.113169 -1.113169 2.702062
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 37       0 0.8200169 -0.9343837 0.6240965 0.6240965
+         b1_lower  b1_upper pred_mse
+elapsed -1.121734 -1.121734 2.623413
+              method id runtime        b0       b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 39   0.001 0.7843451 -1.04338 0.5844957 0.5844957
+         b1_lower  b1_upper pred_mse
+elapsed -1.251748 -1.251748  2.92649
+              method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed simp_lin_cpp 40       0 1.119096 -1.104891 0.9214046 0.9214046 -1.30353
+        b1_upper pred_mse
+elapsed -1.30353 3.264931
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 41       0 1.047176 -0.9976711 0.8277207 0.8277207
+         b1_lower  b1_upper pred_mse
+elapsed -1.228403 -1.228403  3.11742
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 42       0 1.169918 -0.9872687 0.9733532 0.9733532
+         b1_lower  b1_upper pred_mse
+elapsed -1.181016 -1.181016 3.140744
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 43   0.001 1.071576 -0.9285038 0.8633348 0.8633348
+         b1_lower  b1_upper pred_mse
+elapsed -1.121643 -1.121643 3.040284
+              method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed simp_lin_cpp 44   0.001 1.076822 -1.15032 0.8429181 0.8429181 -1.367435
+         b1_upper pred_mse
+elapsed -1.367435 3.369138
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 45       0 0.925306 -1.007088 0.7503695 0.7503695
+         b1_lower  b1_upper pred_mse
+elapsed -1.174332 -1.174332 2.748448
+              method id runtime        b0       b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 46       0 0.9974778 -1.12627 0.774113 0.774113 -1.359258
+         b1_upper pred_mse
+elapsed -1.359258 3.480153
+              method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 47       0 1.242802 -0.8677099 1.026378 1.026378 -1.114667
+         b1_upper pred_mse
+elapsed -1.114667 3.438791
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 48   0.001 0.9997984 -1.126539 0.8002053 0.8002053
+         b1_lower  b1_upper pred_mse
+elapsed -1.329945 -1.329945 3.498099
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 50   0.001 1.024346 -0.9142184 0.8535906 0.8535906
+         b1_lower  b1_upper pred_mse
+elapsed -1.097714 -1.097714 2.396465
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 49   0.001 0.8370195 -1.077605 0.6351957 0.6351957
+         b1_lower  b1_upper pred_mse
+elapsed -1.281384 -1.281384 2.899121
+              method id runtime        b0        b1 b0_lower b0_upper b1_lower
+elapsed simp_lin_cpp 52   0.001 0.8826745 -1.134987 0.676388 0.676388 -1.34133
+        b1_upper pred_mse
+elapsed -1.34133 3.312908
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 53       0 0.9798268 -0.8209278 0.7694425 0.7694425
+         b1_lower  b1_upper pred_mse
+elapsed -1.046827 -1.046827 2.709098
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 51       0 0.8723514 -1.067504 0.7012699 0.7012699
+         b1_lower  b1_upper pred_mse
+elapsed -1.231504 -1.231504  2.94863
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 54   0.001 1.064001 -1.170011 0.8667915 0.8667915
+         b1_lower  b1_upper pred_mse
+elapsed -1.378269 -1.378269  3.33221
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 55   0.001 1.036861 -1.048935 0.8571681 0.8571681
+         b1_lower  b1_upper pred_mse
+elapsed -1.252741 -1.252741  2.83447
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 56       0 0.8570703 -0.8462397 0.6399388 0.6399388
+         b1_lower  b1_upper pred_mse
+elapsed -1.060811 -1.060811 2.687191
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 57   0.001 1.056189 -0.9181322 0.8666741 0.8666741
+         b1_lower  b1_upper pred_mse
+elapsed -1.094159 -1.094159  2.98718
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 58       0 1.122482 -0.9073084 0.9568822 0.9568822
+         b1_lower  b1_upper pred_mse
+elapsed -1.061609 -1.061609 2.971656
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 59   0.001 0.9766116 -0.9189947 0.7683596 0.7683596
+        b1_lower b1_upper pred_mse
+elapsed -1.11982 -1.11982   2.7206
+              method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 60   0.001 1.016152 -0.9511029 0.802686 0.802686 -1.158506
+         b1_upper pred_mse
+elapsed -1.158506 3.272091
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 61   0.001 0.9972189 -1.114084 0.7929044 0.7929044
+         b1_lower  b1_upper pred_mse
+elapsed -1.330237 -1.330237 3.157208
+              method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 62       0 1.108682 -0.8583146 0.890944 0.890944 -1.075571
+         b1_upper pred_mse
+elapsed -1.075571   3.0424
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 63   0.001 1.046655 -0.9841632 0.8388483 0.8388483
+         b1_lower  b1_upper pred_mse
+elapsed -1.188324 -1.188324 3.193056
+              method id runtime       b0       b1  b0_lower  b0_upper b1_lower
+elapsed simp_lin_cpp 64   0.001 0.989266 -1.02662 0.8002338 0.8002338 -1.22652
+        b1_upper pred_mse
+elapsed -1.22652 3.128604
+              method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed simp_lin_cpp 65   0.001 1.033294 -1.014997 0.8614413 0.8614413 -1.17891
+        b1_upper pred_mse
+elapsed -1.17891 2.978542
+              method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed simp_lin_cpp 66       0 1.065577 -1.072621 0.8822258 0.8822258 -1.24192
+        b1_upper pred_mse
+elapsed -1.24192 3.162265
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 67       0 0.8841065 -1.013198 0.7032865 0.7032865
+         b1_lower  b1_upper pred_mse
+elapsed -1.199791 -1.199791 2.570069
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 68       0 1.068787 -0.9016006 0.8517795 0.8517795
+         b1_lower  b1_upper pred_mse
+elapsed -1.131983 -1.131983  3.09602
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 69   0.001 1.143255 -1.180865 0.9408502 0.9408502
+         b1_lower  b1_upper pred_mse
+elapsed -1.397577 -1.397577  3.80343
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 71       0 1.126197 -0.9696633 0.9335837 0.9335837
+         b1_lower  b1_upper pred_mse
+elapsed -1.171077 -1.171077 3.267355
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 70       0 1.017712 -1.210438 0.8189276 0.8189276
+         b1_lower  b1_upper pred_mse
+elapsed -1.423825 -1.423825 3.404451
+              method id runtime       b0        b1 b0_lower b0_upper b1_lower
+elapsed simp_lin_cpp 72   0.001 1.132182 -1.020075 0.928557 0.928557 -1.22256
+        b1_upper pred_mse
+elapsed -1.22256 3.415266
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 73       0 1.103615 -0.9023739 0.9343686 0.9343686
+         b1_lower  b1_upper pred_mse
+elapsed -1.067964 -1.067964 2.389865
+              method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 74   0.001 1.084193 -1.033118 0.890328 0.890328 -1.211469
+         b1_upper pred_mse
+elapsed -1.211469 3.566943
+              method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed simp_lin_cpp 75   0.001 1.07191 -1.068031 0.8874289 0.8874289 -1.250362
+         b1_upper pred_mse
+elapsed -1.250362 2.769347
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 76   0.001 1.063434 -0.8735527 0.8490528 0.8490528
+         b1_lower  b1_upper pred_mse
+elapsed -1.061778 -1.061778 3.537427
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 77   0.001 0.948247 -0.8838904 0.7506086 0.7506086
+         b1_lower  b1_upper pred_mse
+elapsed -1.077489 -1.077489 2.656831
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 78   0.001 1.079805 -1.025116 0.8687389 0.8687389
+         b1_lower  b1_upper pred_mse
+elapsed -1.253928 -1.253928 2.903426
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 79       0 0.9390427 -0.9814145 0.7333591 0.7333591
+         b1_lower  b1_upper pred_mse
+elapsed -1.252208 -1.252208 2.394722
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 80   0.001 0.948809 -1.049348 0.7450625 0.7450625
+         b1_lower  b1_upper pred_mse
+elapsed -1.239575 -1.239575  3.15132
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 81       0 0.9337011 -1.191094 0.7508543 0.7508543
+         b1_lower  b1_upper pred_mse
+elapsed -1.361321 -1.361321 3.393412
+              method id runtime        b0        b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 82   0.001 0.8558806 -1.022883 0.665124 0.665124 -1.210896
+         b1_upper pred_mse
+elapsed -1.210896  2.54536
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 83   0.001 0.9693568 -0.9202224 0.7757177 0.7757177
+        b1_lower b1_upper pred_mse
+elapsed -1.12737 -1.12737 2.656494
+              method id runtime        b0       b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 84       0 0.8534396 -0.91082 0.6664733 0.6664733
+         b1_lower  b1_upper pred_mse
+elapsed -1.106404 -1.106404 2.425242
+              method id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 86       0 1.011403 -0.9974335 0.8173021 0.8173021
+         b1_lower  b1_upper pred_mse
+elapsed -1.233281 -1.233281 2.395663
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 85   0.001 0.9700917 -1.080764 0.7806524 0.7806524
+         b1_lower  b1_upper pred_mse
+elapsed -1.291107 -1.291107 2.739891
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 87   0.001 0.9734277 -0.944026 0.7737353 0.7737353
+         b1_lower  b1_upper pred_mse
+elapsed -1.128705 -1.128705 3.209959
+              method id runtime        b0       b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 88   0.001 0.9300807 -1.12178 0.7482635 0.7482635
+         b1_lower  b1_upper pred_mse
+elapsed -1.288563 -1.288563 3.210995
+              method id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 89       0 0.9807305 -0.8829123 0.7931426 0.7931426
+         b1_lower  b1_upper pred_mse
+elapsed -1.098996 -1.098996  2.42164
+              method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 91       0 1.083221 -1.058329 0.883555 0.883555 -1.275071
+         b1_upper pred_mse
+elapsed -1.275071   3.5712
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 92       0 0.8278998 -1.008384 0.6302374 0.6302374
+         b1_lower  b1_upper pred_mse
+elapsed -1.198324 -1.198324 2.538091
+              method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed simp_lin_cpp 93   0.001 1.041726 -1.00707 0.8461383 0.8461383 -1.208988
+         b1_upper pred_mse
+elapsed -1.208988 2.554654
+              method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 90   0.001 1.263549 -1.200032 1.082312 1.082312 -1.383169
+         b1_upper pred_mse
+elapsed -1.383169 3.236313
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 94       0 1.005888 -1.076014 0.8070191 0.8070191
+         b1_lower  b1_upper pred_mse
+elapsed -1.308306 -1.308306 2.760925
+              method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed simp_lin_cpp 96       0 1.031844 -1.049308 0.8236838 0.8236838 -1.24511
+        b1_upper pred_mse
+elapsed -1.24511 3.471439
+              method id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 95   0.001 1.115777 -1.091809 0.8975956 0.8975956
+         b1_lower  b1_upper pred_mse
+elapsed -1.318723 -1.318723 3.555875
+              method id runtime        b0         b1 b0_lower b0_upper
+elapsed simp_lin_cpp 97       0 0.9071257 -0.8459492  0.71383  0.71383
+         b1_lower  b1_upper pred_mse
+elapsed -1.038741 -1.038741  2.41655
+              method id runtime       b0       b1 b0_lower b0_upper b1_lower
+elapsed simp_lin_cpp 98   0.001 1.045157 -1.03331  0.82438  0.82438 -1.24959
+        b1_upper pred_mse
+elapsed -1.24959 3.274088
+              method id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 99       0 0.8579302 -1.229758 0.6571701 0.6571701
+         b1_lower  b1_upper pred_mse
+elapsed -1.424441 -1.424441 3.315168
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 100       0 1.026072 -1.099603 0.8399045 0.8399045
+         b1_lower  b1_upper pred_mse
+elapsed -1.293519 -1.293519 2.575941
+        method id runtime       b0        b1 b0_lower b0_upper b1_lower
+elapsed     lm  1    0.01 1.149414 -1.156452 0.934182 0.934182 -1.36932
+        b1_upper pred_mse
+elapsed -1.36932 3.472595
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  2    0.01 1.154914 -0.9771361 0.9225534 0.9225534 -1.218484
+         b1_upper pred_mse
+elapsed -1.218484 3.898406
+        method id runtime        b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  5    0.01 0.9202433 -1.04747 0.7163495 0.7163495 -1.250334
+         b1_upper pred_mse
+elapsed -1.250334 2.886799
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  4   0.018 0.9537135 -0.9511812 0.7407267 0.7407267 -1.175656
+         b1_upper pred_mse
+elapsed -1.175656 2.818529
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  3   0.011 0.9709435 -0.8936955 0.7669451 0.7669451 -1.097779
+         b1_upper pred_mse
+elapsed -1.097779 2.707731
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm  6   0.015 1.252877 -0.9628071 1.047666 1.047666 -1.174173
+         b1_upper pred_mse
+elapsed -1.174173 3.617485
+        method id runtime        b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm  7    0.01 0.9251704 -1.200522 0.6938836 0.6938836 -1.41624
+        b1_upper pred_mse
+elapsed -1.41624  4.02603
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  9    0.01 0.9206685 -0.8327424 0.7160117 0.7160117 -1.044332
+         b1_upper pred_mse
+elapsed -1.044332 2.719152
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 10    0.01 0.9528304 -1.064237 0.7556372 0.7556372 -1.254735
+         b1_upper pred_mse
+elapsed -1.254735 2.997701
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm  8    0.01 1.117397 -0.9489969 0.9067486 0.9067486 -1.176715
+         b1_upper pred_mse
+elapsed -1.176715 3.305454
+        method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 12    0.01 1.11739 -1.058369 0.9155696 0.9155696 -1.263938
+         b1_upper pred_mse
+elapsed -1.263938 3.084699
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 11   0.009 1.007571 -1.063295 0.8024716 0.8024716 -1.264762
+         b1_upper pred_mse
+elapsed -1.264762 3.031394
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 13    0.01 1.130108 -0.8388215 0.942372 0.942372 -1.021303
+         b1_upper pred_mse
+elapsed -1.021303 2.814356
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 14    0.01 1.177455 -0.9127065 0.9851235 0.9851235 -1.085141
+         b1_upper pred_mse
+elapsed -1.085141 2.866672
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 15    0.01 0.8379234 -0.9329777 0.6549629 0.6549629 -1.119154
+         b1_upper pred_mse
+elapsed -1.119154 2.313853
+        method id runtime        b0       b1  b0_lower  b0_upper b1_lower
+elapsed     lm 16    0.01 0.9753174 -1.16218 0.7695849 0.7695849 -1.34888
+        b1_upper pred_mse
+elapsed -1.34888 4.049589
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 17    0.01 0.9822677 -0.8781021 0.7722484 0.7722484 -1.102934
+         b1_upper pred_mse
+elapsed -1.102934  2.79601
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 18    0.01 0.8267793 -1.036125 0.6166552 0.6166552 -1.249593
+         b1_upper pred_mse
+elapsed -1.249593 2.887281
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 19    0.01 1.047833 -0.9828802 0.8611424 0.8611424 -1.151164
+         b1_upper pred_mse
+elapsed -1.151164 3.186422
+        method id runtime      b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 20    0.01 1.09631 -0.9318275 0.8869841 0.8869841 -1.133521
+         b1_upper pred_mse
+elapsed -1.133521 3.404744
+        method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 21    0.01 1.038302 -1.02978 0.8220378 0.8220378 -1.264222
+         b1_upper pred_mse
+elapsed -1.264222 2.990244
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 22   0.009 0.9654596 -1.012828 0.7757326 0.7757326 -1.193309
+         b1_upper pred_mse
+elapsed -1.193309 2.966421
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 23    0.01 0.942539 -1.040748 0.7374005 0.7374005 -1.249924
+         b1_upper pred_mse
+elapsed -1.249924 3.001332
+        method id runtime        b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 24    0.01 0.8797917 -0.8897061 0.665905 0.665905 -1.086229
+         b1_upper pred_mse
+elapsed -1.086229 2.529045
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 25    0.01 0.8808242 -0.9820351 0.6956893 0.6956893 -1.137066
+         b1_upper pred_mse
+elapsed -1.137066 2.960953
+        method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 26    0.01 1.070074 -1.116061 0.867706 0.867706 -1.340365
+         b1_upper pred_mse
+elapsed -1.340365 3.003999
+        method id runtime        b0         b1  b0_lower  b0_upper b1_lower
+elapsed     lm 27    0.01 0.8980301 -0.9819615 0.6888767 0.6888767 -1.20663
+        b1_upper pred_mse
+elapsed -1.20663 2.514325
+        method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 28    0.01 1.14864 -1.003341 0.9550197 0.9550197 -1.200744
+         b1_upper pred_mse
+elapsed -1.200744  3.35634
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 29    0.01 1.069657 -0.940279 0.8597587 0.8597587 -1.163956
+         b1_upper pred_mse
+elapsed -1.163956 2.860535
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 30    0.01 1.097772 -0.974771 0.9122397 0.9122397 -1.170004
+         b1_upper pred_mse
+elapsed -1.170004 2.882766
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 31   0.009 0.8881283 -1.115548 0.6889187 0.6889187 -1.331921
+         b1_upper pred_mse
+elapsed -1.331921 2.912885
+        method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 32    0.01 1.009296 -1.11507 0.8121058 0.8121058 -1.340294
+         b1_upper pred_mse
+elapsed -1.340294 2.932535
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 33    0.01 0.9413364 -0.9924456 0.7624636 0.7624636 -1.162419
+         b1_upper pred_mse
+elapsed -1.162419    2.953
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 34    0.01 0.926989 -1.021035 0.7368589 0.7368589 -1.22153
+        b1_upper pred_mse
+elapsed -1.22153 2.846419
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 35    0.01 0.8661681 -1.048219 0.6763723 0.6763723 -1.232079
+         b1_upper pred_mse
+elapsed -1.232079 3.104665
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 36    0.01 1.101935 -1.229812 0.8913997 0.8913997 -1.441906
+         b1_upper pred_mse
+elapsed -1.441906 3.505716
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 37    0.01 0.8200169 -0.9343837 0.6240965 0.6240965 -1.121734
+         b1_upper pred_mse
+elapsed -1.121734 2.623413
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 38    0.01 0.8998472 -0.8873783 0.6713905 0.6713905 -1.113169
+         b1_upper pred_mse
+elapsed -1.113169 2.702062
+        method id runtime        b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 39    0.01 0.7843451 -1.04338 0.5844957 0.5844957 -1.251748
+         b1_upper pred_mse
+elapsed -1.251748  2.92649
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 40    0.01 1.119096 -1.104891 0.9214046 0.9214046 -1.30353
+        b1_upper pred_mse
+elapsed -1.30353 3.264931
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 41    0.01 1.047176 -0.9976711 0.8277207 0.8277207 -1.228403
+         b1_upper pred_mse
+elapsed -1.228403  3.11742
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 43    0.01 1.071576 -0.9285038 0.8633348 0.8633348 -1.121643
+         b1_upper pred_mse
+elapsed -1.121643 3.040284
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 42    0.01 1.169918 -0.9872687 0.9733532 0.9733532 -1.181016
+         b1_upper pred_mse
+elapsed -1.181016 3.140744
+        method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 44   0.009 1.076822 -1.15032 0.8429181 0.8429181 -1.367435
+         b1_upper pred_mse
+elapsed -1.367435 3.369138
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 45   0.016 0.925306 -1.007088 0.7503695 0.7503695 -1.174332
+         b1_upper pred_mse
+elapsed -1.174332 2.748448
+        method id runtime        b0       b1 b0_lower b0_upper  b1_lower
+elapsed     lm 46    0.01 0.9974778 -1.12627 0.774113 0.774113 -1.359258
+         b1_upper pred_mse
+elapsed -1.359258 3.480153
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 48   0.011 0.9997984 -1.126539 0.8002053 0.8002053 -1.329945
+         b1_upper pred_mse
+elapsed -1.329945 3.498099
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 47   0.023 1.242802 -0.8677099 1.026378 1.026378 -1.114667
+         b1_upper pred_mse
+elapsed -1.114667 3.438791
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 49   0.016 0.8370195 -1.077605 0.6351957 0.6351957 -1.281384
+         b1_upper pred_mse
+elapsed -1.281384 2.899121
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 50   0.011 1.024346 -0.9142184 0.8535906 0.8535906 -1.097714
+         b1_upper pred_mse
+elapsed -1.097714 2.396465
+        method id runtime        b0        b1 b0_lower b0_upper b1_lower
+elapsed     lm 52   0.011 0.8826745 -1.134987 0.676388 0.676388 -1.34133
+        b1_upper pred_mse
+elapsed -1.34133 3.312908
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 51   0.011 0.8723514 -1.067504 0.7012699 0.7012699 -1.231504
+         b1_upper pred_mse
+elapsed -1.231504  2.94863
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 53    0.01 0.9798268 -0.8209278 0.7694425 0.7694425 -1.046827
+         b1_upper pred_mse
+elapsed -1.046827 2.709098
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 54    0.01 1.064001 -1.170011 0.8667915 0.8667915 -1.378269
+         b1_upper pred_mse
+elapsed -1.378269  3.33221
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 55   0.013 1.036861 -1.048935 0.8571681 0.8571681 -1.252741
+         b1_upper pred_mse
+elapsed -1.252741  2.83447
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 56    0.01 0.8570703 -0.8462397 0.6399388 0.6399388 -1.060811
+         b1_upper pred_mse
+elapsed -1.060811 2.687191
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 57   0.009 1.056189 -0.9181322 0.8666741 0.8666741 -1.094159
+         b1_upper pred_mse
+elapsed -1.094159  2.98718
+        method id runtime        b0         b1  b0_lower  b0_upper b1_lower
+elapsed     lm 59   0.011 0.9766116 -0.9189947 0.7683596 0.7683596 -1.11982
+        b1_upper pred_mse
+elapsed -1.11982   2.7206
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 58   0.011 1.122482 -0.9073084 0.9568822 0.9568822 -1.061609
+         b1_upper pred_mse
+elapsed -1.061609 2.971656
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 63   0.011 1.046655 -0.9841632 0.8388483 0.8388483 -1.188324
+         b1_upper pred_mse
+elapsed -1.188324 3.193056
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 60    0.01 1.016152 -0.9511029 0.802686 0.802686 -1.158506
+         b1_upper pred_mse
+elapsed -1.158506 3.272091
+        method id runtime       b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 62   0.011 1.108682 -0.8583146 0.890944 0.890944 -1.075571
+         b1_upper pred_mse
+elapsed -1.075571   3.0424
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 61    0.01 0.9972189 -1.114084 0.7929044 0.7929044 -1.330237
+         b1_upper pred_mse
+elapsed -1.330237 3.157208
+        method id runtime       b0       b1  b0_lower  b0_upper b1_lower
+elapsed     lm 64    0.01 0.989266 -1.02662 0.8002338 0.8002338 -1.22652
+        b1_upper pred_mse
+elapsed -1.22652 3.128604
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 65    0.01 1.033294 -1.014997 0.8614413 0.8614413 -1.17891
+        b1_upper pred_mse
+elapsed -1.17891 2.978542
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 66   0.009 1.065577 -1.072621 0.8822258 0.8822258 -1.24192
+        b1_upper pred_mse
+elapsed -1.24192 3.162265
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 67    0.01 0.8841065 -1.013198 0.7032865 0.7032865 -1.199791
+         b1_upper pred_mse
+elapsed -1.199791 2.570069
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 68    0.01 1.068787 -0.9016006 0.8517795 0.8517795 -1.131983
+         b1_upper pred_mse
+elapsed -1.131983  3.09602
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 69    0.01 1.143255 -1.180865 0.9408502 0.9408502 -1.397577
+         b1_upper pred_mse
+elapsed -1.397577  3.80343
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 70    0.01 1.017712 -1.210438 0.8189276 0.8189276 -1.423825
+         b1_upper pred_mse
+elapsed -1.423825 3.404451
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 71    0.01 1.126197 -0.9696633 0.9335837 0.9335837 -1.171077
+         b1_upper pred_mse
+elapsed -1.171077 3.267355
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 73    0.01 1.103615 -0.9023739 0.9343686 0.9343686 -1.067964
+         b1_upper pred_mse
+elapsed -1.067964 2.389865
+        method id runtime       b0        b1 b0_lower b0_upper b1_lower
+elapsed     lm 72    0.01 1.132182 -1.020075 0.928557 0.928557 -1.22256
+        b1_upper pred_mse
+elapsed -1.22256 3.415266
+        method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 74    0.01 1.084193 -1.033118 0.890328 0.890328 -1.211469
+         b1_upper pred_mse
+elapsed -1.211469 3.566943
+        method id runtime      b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 75    0.01 1.07191 -1.068031 0.8874289 0.8874289 -1.250362
+         b1_upper pred_mse
+elapsed -1.250362 2.769347
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 76   0.009 1.063434 -0.8735527 0.8490528 0.8490528 -1.061778
+         b1_upper pred_mse
+elapsed -1.061778 3.537427
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 77   0.009 0.948247 -0.8838904 0.7506086 0.7506086 -1.077489
+         b1_upper pred_mse
+elapsed -1.077489 2.656831
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 78    0.01 1.079805 -1.025116 0.8687389 0.8687389 -1.253928
+         b1_upper pred_mse
+elapsed -1.253928 2.903426
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 79    0.01 0.9390427 -0.9814145 0.7333591 0.7333591 -1.252208
+         b1_upper pred_mse
+elapsed -1.252208 2.394722
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 80   0.009 0.948809 -1.049348 0.7450625 0.7450625 -1.239575
+         b1_upper pred_mse
+elapsed -1.239575  3.15132
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 81    0.01 0.9337011 -1.191094 0.7508543 0.7508543 -1.361321
+         b1_upper pred_mse
+elapsed -1.361321 3.393412
+        method id runtime        b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 82    0.01 0.8558806 -1.022883 0.665124 0.665124 -1.210896
+         b1_upper pred_mse
+elapsed -1.210896  2.54536
+        method id runtime        b0         b1  b0_lower  b0_upper b1_lower
+elapsed     lm 83    0.01 0.9693568 -0.9202224 0.7757177 0.7757177 -1.12737
+        b1_upper pred_mse
+elapsed -1.12737 2.656494
+        method id runtime        b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 84    0.01 0.8534396 -0.91082 0.6664733 0.6664733 -1.106404
+         b1_upper pred_mse
+elapsed -1.106404 2.425242
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 85   0.009 0.9700917 -1.080764 0.7806524 0.7806524 -1.291107
+         b1_upper pred_mse
+elapsed -1.291107 2.739891
+        method id runtime       b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 86    0.01 1.011403 -0.9974335 0.8173021 0.8173021 -1.233281
+         b1_upper pred_mse
+elapsed -1.233281 2.395663
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 87    0.01 0.9734277 -0.944026 0.7737353 0.7737353 -1.128705
+         b1_upper pred_mse
+elapsed -1.128705 3.209959
+        method id runtime        b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 88    0.01 0.9300807 -1.12178 0.7482635 0.7482635 -1.288563
+         b1_upper pred_mse
+elapsed -1.288563 3.210995
+        method id runtime        b0         b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 89    0.01 0.9807305 -0.8829123 0.7931426 0.7931426 -1.098996
+         b1_upper pred_mse
+elapsed -1.098996  2.42164
+        method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 90    0.01 1.263549 -1.200032 1.082312 1.082312 -1.383169
+         b1_upper pred_mse
+elapsed -1.383169 3.236313
+        method id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed     lm 91    0.01 1.083221 -1.058329 0.883555 0.883555 -1.275071
+         b1_upper pred_mse
+elapsed -1.275071   3.5712
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 92    0.01 0.8278998 -1.008384 0.6302374 0.6302374 -1.198324
+         b1_upper pred_mse
+elapsed -1.198324 2.538091
+        method id runtime       b0       b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 93    0.01 1.041726 -1.00707 0.8461383 0.8461383 -1.208988
+         b1_upper pred_mse
+elapsed -1.208988 2.554654
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 94   0.017 1.005888 -1.076014 0.8070191 0.8070191 -1.308306
+         b1_upper pred_mse
+elapsed -1.308306 2.760925
+        method id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 95   0.017 1.115777 -1.091809 0.8975956 0.8975956 -1.318723
+         b1_upper pred_mse
+elapsed -1.318723 3.555875
+        method id runtime       b0        b1  b0_lower  b0_upper b1_lower
+elapsed     lm 96   0.009 1.031844 -1.049308 0.8236838 0.8236838 -1.24511
+        b1_upper pred_mse
+elapsed -1.24511 3.471439
+        method id runtime        b0         b1 b0_lower b0_upper  b1_lower
+elapsed     lm 97    0.01 0.9071257 -0.8459492  0.71383  0.71383 -1.038741
+         b1_upper pred_mse
+elapsed -1.038741  2.41655
+        method id runtime       b0       b1 b0_lower b0_upper b1_lower b1_upper
+elapsed     lm 98   0.009 1.045157 -1.03331  0.82438  0.82438 -1.24959 -1.24959
+        pred_mse
+elapsed 3.274088
+              method  id runtime      b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 101   0.001 1.03412 -0.9947644 0.8289655 0.8289655
+         b1_lower  b1_upper pred_mse
+elapsed -1.225425 -1.225425 2.889341
+        method id runtime        b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 99    0.01 0.8579302 -1.229758 0.6571701 0.6571701 -1.424441
+         b1_upper pred_mse
+elapsed -1.424441 3.315168
+        method  id runtime       b0        b1  b0_lower  b0_upper  b1_lower
+elapsed     lm 100    0.01 1.026072 -1.099603 0.8399045 0.8399045 -1.293519
+         b1_upper pred_mse
+elapsed -1.293519 2.575941
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 103   0.001 0.8858068 -1.157439 0.6937199 0.6937199
+         b1_lower  b1_upper pred_mse
+elapsed -1.356824 -1.356824  3.15938
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 102       0 0.9815185 -0.9872993 0.7719578 0.7719578
+         b1_lower  b1_upper pred_mse
+elapsed -1.181215 -1.181215 2.986076
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 104   0.001 1.051909 -0.7916928 0.8545862 0.8545862
+          b1_lower   b1_upper pred_mse
+elapsed -0.9717907 -0.9717907 2.855986
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 105       0 1.115991 -1.013258 0.9280391 0.9280391
+         b1_lower  b1_upper pred_mse
+elapsed -1.192547 -1.192547 3.339277
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 106   0.001 0.8835555 -0.940836 0.6576604 0.6576604
+         b1_lower  b1_upper pred_mse
+elapsed -1.150756 -1.150756 3.092717
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 107       0 1.019088 -1.089864 0.8047759 0.8047759
+         b1_lower  b1_upper pred_mse
+elapsed -1.290096 -1.290096 3.461835
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 109       0 0.9853886 -0.9619707 0.7601673 0.7601673
+         b1_lower  b1_upper pred_mse
+elapsed -1.202208 -1.202208 3.036075
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 110   0.001 1.008414 -1.051268 0.8065713 0.8065713
+        b1_lower b1_upper pred_mse
+elapsed -1.28386 -1.28386 3.069808
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 108       0 0.9193633 -1.062101 0.7094581 0.7094581
+         b1_lower  b1_upper pred_mse
+elapsed -1.261344 -1.261344 3.293306
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 112   0.001 0.9414627 -0.9145775 0.7469685 0.7469685
+         b1_lower  b1_upper pred_mse
+elapsed -1.108104 -1.108104 2.553626
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 111   0.001 0.9787888 -1.018552 0.7751918 0.7751918
+         b1_lower  b1_upper pred_mse
+elapsed -1.205349 -1.205349 3.138578
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 113       0 0.8942801 -0.9416679 0.7226182 0.7226182
+         b1_lower  b1_upper pred_mse
+elapsed -1.107089 -1.107089 2.117328
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 114       0 1.016301 -0.7193161 0.8429943 0.8429943
+          b1_lower   b1_upper pred_mse
+elapsed -0.8940346 -0.8940346 2.333161
+              method  id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 115   0.001 1.079129 -1.087051 0.892203 0.892203 -1.290077
+         b1_upper pred_mse
+elapsed -1.290077 2.559634
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 116   0.001 1.033905 -0.8772991 0.8433577 0.8433577
+        b1_lower b1_upper pred_mse
+elapsed -1.05238 -1.05238  3.09191
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 117   0.001 1.197123 -0.9375999 0.9896211 0.9896211
+         b1_lower  b1_upper pred_mse
+elapsed -1.150137 -1.150137 3.586445
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 118   0.001 1.024872 -1.144998 0.8272524 0.8272524
+         b1_lower  b1_upper pred_mse
+elapsed -1.330636 -1.330636 3.626784
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 119       0 1.122724 -1.173226 0.8962484 0.8962484
+         b1_lower  b1_upper pred_mse
+elapsed -1.403289 -1.403289 4.020778
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 120       0 1.117966 -1.060261 0.9095536 0.9095536
+         b1_lower  b1_upper pred_mse
+elapsed -1.272044 -1.272044 3.676862
+              method  id runtime       b0        b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 121       0 1.257666 -1.048594 1.061521 1.061521 -1.241837
+         b1_upper pred_mse
+elapsed -1.241837 3.418932
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 122   0.001 1.146924 -0.944372 0.9322675 0.9322675
+         b1_lower  b1_upper pred_mse
+elapsed -1.135367 -1.135367 3.701953
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 123       0 1.203576 -0.9570227 0.9803756 0.9803756
+        b1_lower b1_upper pred_mse
+elapsed -1.17759 -1.17759 3.778459
+              method  id runtime      b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 124   0.001 0.94471 -0.9237528 0.7720384 0.7720384
+         b1_lower  b1_upper pred_mse
+elapsed -1.078563 -1.078563 2.811022
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 125       0 0.9229875 -1.193948 0.7281998 0.7281998
+         b1_lower  b1_upper pred_mse
+elapsed -1.388609 -1.388609   3.2624
+              method  id runtime      b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 126   0.001 1.15122 -0.8803352 0.9586745 0.9586745
+         b1_lower  b1_upper pred_mse
+elapsed -1.062513 -1.062513 3.273216
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 127   0.001 0.9352875 -0.8997247 0.7216513 0.7216513
+         b1_lower  b1_upper pred_mse
+elapsed -1.108322 -1.108322 2.851686
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 128       0 1.039091 -1.075607 0.8476423 0.8476423
+         b1_lower  b1_upper pred_mse
+elapsed -1.272232 -1.272232 3.223882
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 129   0.001 1.115755 -0.9687449 0.9275768 0.9275768
+         b1_lower  b1_upper pred_mse
+elapsed -1.166404 -1.166404 2.885397
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 130   0.001 0.9146736 -0.8259282 0.7029944 0.7029944
+         b1_lower  b1_upper pred_mse
+elapsed -1.029211 -1.029211  2.90049
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 131       0 0.8598388 -0.9332261 0.6740662 0.6740662
+         b1_lower  b1_upper pred_mse
+elapsed -1.098963 -1.098963 2.576649
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 132       0 0.9643293 -1.110953 0.7655653 0.7655653
+         b1_lower  b1_upper pred_mse
+elapsed -1.328688 -1.328688 3.174094
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 133       0 1.004535 -0.9338575 0.8198328 0.8198328
+         b1_lower  b1_upper pred_mse
+elapsed -1.095077 -1.095077 2.778304
+              method  id runtime      b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 134   0.001 0.98795 -0.9180116 0.7867455 0.7867455
+         b1_lower  b1_upper pred_mse
+elapsed -1.111737 -1.111737 2.821187
+              method  id runtime        b0         b1 b0_lower b0_upper
+elapsed simp_lin_cpp 135   0.001 0.9162334 -0.8815763 0.735901 0.735901
+         b1_lower  b1_upper pred_mse
+elapsed -1.033248 -1.033248 2.608965
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 136       0 0.932341 -0.8025509 0.7364225 0.7364225
+          b1_lower   b1_upper pred_mse
+elapsed -0.9916815 -0.9916815 2.604305
+              method  id runtime      b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 137       0 1.04479 -1.115002 0.8397272 0.8397272
+         b1_lower  b1_upper pred_mse
+elapsed -1.301736 -1.301736 3.790798
+              method  id runtime      b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 138   0.001 1.03566 -1.053829 0.8135772 0.8135772
+         b1_lower  b1_upper pred_mse
+elapsed -1.275098 -1.275098 2.857042
+              method  id runtime      b0       b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 139   0.001 0.95324 -1.10409 0.756263 0.756263 -1.318843
+         b1_upper pred_mse
+elapsed -1.318843 3.001366
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 140       0 1.024883 -0.9905209 0.8241753 0.8241753
+         b1_lower  b1_upper pred_mse
+elapsed -1.201002 -1.201002 3.045375
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 141   0.001 0.9521335 -1.031074 0.7495577 0.7495577
+         b1_lower  b1_upper pred_mse
+elapsed -1.266981 -1.266981  2.90549
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 142   0.001 1.076887 -1.073003 0.8463077 0.8463077
+         b1_lower  b1_upper pred_mse
+elapsed -1.293141 -1.293141 3.804168
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 143       0 0.8591012 -1.155768 0.6546216 0.6546216
+         b1_lower  b1_upper pred_mse
+elapsed -1.380439 -1.380439 2.777111
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 144       0 0.7629817 -1.066663 0.5670278 0.5670278
+         b1_lower  b1_upper pred_mse
+elapsed -1.271907 -1.271907 2.374075
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 145   0.001 0.8857999 -1.096317 0.7113729 0.7113729
+         b1_lower  b1_upper pred_mse
+elapsed -1.289811 -1.289811 2.599278
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 146   0.001 0.9668777 -0.9410192 0.7712997 0.7712997
+         b1_lower  b1_upper pred_mse
+elapsed -1.157605 -1.157605 2.504104
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 147   0.001 0.8332595 -1.008848 0.6220813 0.6220813
+         b1_lower  b1_upper pred_mse
+elapsed -1.217017 -1.217017 2.779015
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 148   0.001 0.8197055 -1.016245 0.6287245 0.6287245
+         b1_lower  b1_upper pred_mse
+elapsed -1.211882 -1.211882 2.797872
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 149   0.001 0.9962492 -1.017466 0.7753317 0.7753317
+         b1_lower  b1_upper pred_mse
+elapsed -1.259424 -1.259424 3.084467
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 150       0 1.086757 -0.9017184 0.8977851 0.8977851
+         b1_lower  b1_upper pred_mse
+elapsed -1.085933 -1.085933 2.925266
+              method  id runtime       b0       b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 151       0 1.031925 -1.00423 0.8490422 0.8490422
+         b1_lower  b1_upper pred_mse
+elapsed -1.184583 -1.184583 2.874949
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 152   0.001 0.9608631 -1.040569 0.7709097 0.7709097
+         b1_lower  b1_upper pred_mse
+elapsed -1.239438 -1.239438  2.99128
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 153   0.001 0.8848867 -0.8003154 0.6972975 0.6972975
+          b1_lower   b1_upper pred_mse
+elapsed -0.9819222 -0.9819222 2.275202
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 154   0.001 0.9884263 -1.058819 0.7981367 0.7981367
+         b1_lower  b1_upper pred_mse
+elapsed -1.290724 -1.290724 2.444817
+              method  id runtime        b0        b1 b0_lower b0_upper
+elapsed simp_lin_cpp 155   0.001 0.8394119 -1.022227  0.63398  0.63398
+         b1_lower  b1_upper pred_mse
+elapsed -1.212202 -1.212202  3.12584
+              method  id runtime       b0         b1 b0_lower b0_upper
+elapsed simp_lin_cpp 156   0.001 1.090494 -0.8907077  0.88954  0.88954
+         b1_lower  b1_upper pred_mse
+elapsed -1.083148 -1.083148 3.009885
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 157       0 0.9649985 -1.112968 0.7708289 0.7708289
+         b1_lower  b1_upper pred_mse
+elapsed -1.302991 -1.302991 3.240939
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 158       0 0.9992554 -1.046474 0.8058191 0.8058191
+         b1_lower  b1_upper pred_mse
+elapsed -1.235855 -1.235855 3.200227
+              method  id runtime        b0         b1 b0_lower b0_upper
+elapsed simp_lin_cpp 159       0 0.9690457 -0.9683724 0.789224 0.789224
+         b1_lower  b1_upper pred_mse
+elapsed -1.147506 -1.147506 2.719092
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 160       0 1.057205 -1.060356 0.8846992 0.8846992
+         b1_lower  b1_upper pred_mse
+elapsed -1.240911 -1.240911 3.028963
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 161   0.001 1.022227 -0.9678404 0.8603016 0.8603016
+         b1_lower  b1_upper pred_mse
+elapsed -1.129854 -1.129854 2.627015
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 162   0.001 1.089267 -1.084169 0.8718641 0.8718641
+         b1_lower  b1_upper pred_mse
+elapsed -1.300869 -1.300869 3.999524
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 163       0 0.9549226 -0.8924697 0.7606526 0.7606526
+         b1_lower  b1_upper pred_mse
+elapsed -1.098485 -1.098485 2.492484
+              method  id runtime      b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 164       0 1.04345 -0.9004112 0.8743364 0.8743364
+         b1_lower  b1_upper pred_mse
+elapsed -1.067657 -1.067657 2.669434
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 166       0 1.117342 -0.7457735 0.9340008 0.9340008
+          b1_lower   b1_upper pred_mse
+elapsed -0.9368091 -0.9368091 2.815553
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 165   0.001 1.001598 -0.8902818 0.8074675 0.8074675
+        b1_lower b1_upper pred_mse
+elapsed -1.08375 -1.08375 2.769556
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 167   0.001 0.9496162 -0.804087 0.7521206 0.7521206
+          b1_lower   b1_upper pred_mse
+elapsed -0.9986631 -0.9986631 2.333124
+              method  id runtime       b0       b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 168   0.001 1.056165 -1.05695 0.8424939 0.8424939
+         b1_lower  b1_upper pred_mse
+elapsed -1.262178 -1.262178 3.609987
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 169       0 0.9329027 -0.9781849 0.7256135 0.7256135
+        b1_lower b1_upper pred_mse
+elapsed -1.17986 -1.17986 2.983866
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 170       0 1.042195 -0.9981298 0.8254048 0.8254048
+         b1_lower  b1_upper pred_mse
+elapsed -1.205366 -1.205366  3.17657
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 171       0 1.027575 -1.049646 0.8393224 0.8393224
+         b1_lower  b1_upper pred_mse
+elapsed -1.258812 -1.258812 2.488681
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 173       0 1.085041 -0.8721054 0.8997544 0.8997544
+         b1_lower  b1_upper pred_mse
+elapsed -1.082143 -1.082143 2.838495
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 172       0 0.9380122 -0.8785232 0.7570718 0.7570718
+         b1_lower  b1_upper pred_mse
+elapsed -1.061588 -1.061588 2.596464
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 174       0 0.9050048 -1.021919 0.7437812 0.7437812
+         b1_lower  b1_upper pred_mse
+elapsed -1.173878 -1.173878 2.792296
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 176       0 0.8464622 -0.9650756 0.6591749 0.6591749
+        b1_lower b1_upper pred_mse
+elapsed -1.15671 -1.15671 2.545165
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 175       0 1.100648 -0.8657136 0.8986317 0.8986317
+         b1_lower  b1_upper pred_mse
+elapsed -1.070604 -1.070604 3.194876
+              method  id runtime    b0        b1  b0_lower  b0_upper b1_lower
+elapsed simp_lin_cpp 177   0.001 1.135 -1.137894 0.9336032 0.9336032  -1.3518
+        b1_upper pred_mse
+elapsed  -1.3518 4.007302
+              method  id runtime        b0         b1 b0_lower b0_upper
+elapsed simp_lin_cpp 178       0 0.8576229 -0.9497805 0.655004 0.655004
+        b1_lower b1_upper pred_mse
+elapsed -1.18724 -1.18724 2.275335
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 179       0 1.203835 -0.9594034 0.9989513 0.9989513
+         b1_lower  b1_upper pred_mse
+elapsed -1.177564 -1.177564 3.390122
+              method  id runtime      b0         b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 180       0 1.12523 -0.9028541 0.914601 0.914601 -1.166773
+         b1_upper pred_mse
+elapsed -1.166773 2.898863
+              method  id runtime      b0         b1 b0_lower b0_upper  b1_lower
+elapsed simp_lin_cpp 181       0 1.19775 -0.9845196 1.007439 1.007439 -1.175718
+         b1_upper pred_mse
+elapsed -1.175718 3.838881
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 182       0 0.9762892 -1.027199 0.7812028 0.7812028
+         b1_lower  b1_upper pred_mse
+elapsed -1.229432 -1.229432 2.360699
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 183       0 0.9494948 -1.015149 0.7432855 0.7432855
+         b1_lower  b1_upper pred_mse
+elapsed -1.228684 -1.228684 2.929994
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 184   0.001 1.010464 -1.019057 0.8089838 0.8089838
+         b1_lower  b1_upper pred_mse
+elapsed -1.222469 -1.222469 2.948917
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 185   0.001 1.042504 -1.080331 0.8364395 0.8364395
+         b1_lower  b1_upper pred_mse
+elapsed -1.263704 -1.263704  3.46476
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 186   0.001 1.206753 -1.164697 0.9953443 0.9953443
+         b1_lower  b1_upper pred_mse
+elapsed -1.385002 -1.385002 3.589005
+              method  id runtime        b0        b1 b0_lower b0_upper
+elapsed simp_lin_cpp 187       0 0.8694553 -1.029285 0.646024 0.646024
+         b1_lower  b1_upper pred_mse
+elapsed -1.230797 -1.230797 3.122684
+              method  id runtime        b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 188   0.001 0.9750147 -0.9689904 0.7923133 0.7923133
+         b1_lower  b1_upper pred_mse
+elapsed -1.145028 -1.145028 2.659573
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 189   0.001 1.158518 -1.087368 0.9551603 0.9551603
+         b1_lower  b1_upper pred_mse
+elapsed -1.291175 -1.291175  3.42576
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 190       0 1.042248 -0.9796673 0.8181132 0.8181132
+         b1_lower  b1_upper pred_mse
+elapsed -1.200621 -1.200621 3.576222
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 191   0.001 0.8726287 -0.949129 0.6545378 0.6545378
+         b1_lower  b1_upper pred_mse
+elapsed -1.149017 -1.149017 2.483186
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 192   0.001 1.115422 -0.8905825 0.9302059 0.9302059
+        b1_lower b1_upper pred_mse
+elapsed -1.06541 -1.06541 2.580633
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 194       0 1.044757 -1.090886 0.8332493 0.8332493
+         b1_lower  b1_upper pred_mse
+elapsed -1.317163 -1.317163 3.544301
+              method  id runtime      b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 193       0 1.03947 -0.9869291 0.8343413 0.8343413
+         b1_lower  b1_upper pred_mse
+elapsed -1.197255 -1.197255 3.094298
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 195       0 0.995356 -1.189136 0.8083892 0.8083892
+         b1_lower  b1_upper pred_mse
+elapsed -1.376701 -1.376701  3.53831
+              method  id runtime       b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 196   0.001 1.053631 -1.012406 0.8574751 0.8574751
+         b1_lower  b1_upper pred_mse
+elapsed -1.187619 -1.187619 3.238871
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 197       0 0.9227398 -1.069894 0.7146199 0.7146199
+         b1_lower  b1_upper pred_mse
+elapsed -1.275395 -1.275395 2.928442
+              method  id runtime        b0        b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 198       0 0.9833707 -1.047067 0.7872659 0.7872659
+         b1_lower  b1_upper pred_mse
+elapsed -1.279349 -1.279349 2.921935
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 199       0 1.017465 -0.9046722 0.8222236 0.8222236
+         b1_lower  b1_upper pred_mse
+elapsed -1.094804 -1.094804 2.568423
+              method  id runtime       b0         b1  b0_lower  b0_upper
+elapsed simp_lin_cpp 200   0.001 1.025137 -0.8515349 0.7954643 0.7954643
+        b1_lower b1_upper pred_mse
+elapsed -1.09161 -1.09161 3.067365
