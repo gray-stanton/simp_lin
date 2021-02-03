@@ -2,6 +2,7 @@
 
 export(simp_lin_R)
 export(simp_lin_cpp)
+export(simulate)
 import(Rcpp)
 importFrom(Rcpp,evalCpp)
 useDynLib(simplin)

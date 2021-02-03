@@ -1,0 +1,40 @@
+---
+title: "Simple Linear Regression"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Simple Linear Regression}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+# Package Objective
+The goal of this package is to implement simple linear regression in C++ and integrate it into R. 
+
+Simple linear regression solves the following least squares optimization problem:
+\[
+\hat{\beta}_0, \hat{\beta}_1 = \argmin_{\beta_0, \beta_1} ||\mathbf{y} - (\beta_0 + \beta_1 \cdot \mathbf{x})||_2.
+\]
+
+# Using the package
+Suppose we have a vector of covariate observations $x$ and a vector of response observations $y$:
+```{r}
+x <- rnorm(100, 0, 1)
+y <- 0.5 + 1.5 * x + rnorm(100, 0, 0.2)
+```
+
+We invoke the fitting C++ code via
+```{r}
+fit <- simplin::simp_lin_R(x, y)
+```
+which will return our estimates of $\hat{\beta}_0, \hat{\beta}_1$, standard errors and CIs for those parameters, and the fitted values and residuals.
+These can be accessed by examining the returned list:
+```{r}
+str(fit)
+```
+
+It is of course necessary that the $x$ and $y$ vectors be numeric vectors of the same length, or else we'll get an error:
+```{r}
+x <- c(x, 1.1)
+#NOT RUN:
+#simplin::simp_lin_R(x, y) -- Error in simp_lin_R(x, y) : x and y must have the same length!
+```
