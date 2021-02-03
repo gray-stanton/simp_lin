@@ -56,8 +56,8 @@ simulate <- function(n, method="lm", id=0, outputprefix="run_", writeout=TRUE){
   elapsed_time <- proc.time()[3] - inittime
   outdf <- data.frame(method=method, id=id, runtime=elapsed_time,
                       b0=output[["b0"]], b1=output[["b1"]],
-                      b0_lower=output[["b0_ci"]][1], b0_upper= output[["b0_ci"]][1],
-                      b1_lower=output[["b1_ci"]][1], b1_upper= output[["b1_ci"]][1],
+                      b0_lower=output[["b0_ci"]][1], b0_upper= output[["b0_ci"]][2],
+                      b1_lower=output[["b1_ci"]][1], b1_upper= output[["b1_ci"]][2],
                       pred_mse = mean((output[["yhat"]] - output[["resids"]])^2)
   )
   if(writeout){
