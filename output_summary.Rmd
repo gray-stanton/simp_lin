@@ -1,0 +1,59 @@
+---
+title: "Summary of Outputs"
+author: "Gray Stanton"
+date: "February 2, 2021"
+output: pdf_document
+---
+```{r, echo=FALSE, include=FALSE}
+library(tidyverse)
+library(pander)
+```
+
+```{r, echo=FALSE}
+dfs <- list()
+paths <- dir("./output/")
+for(path in paths){
+  df <- read.csv(paste0("./output/", path), stringsAsFactors = FALSE)
+  dfs[[path]] <- df
+}
+run_outputs <- dplyr::bind_rows(dfs)
+```
+
+
+```{r, echo=FALSE}
+summary <- run_outputs %>% group_by(method) %>% 
+  mutate(bias_0 = b0 - 1, bias_1 = b1 + 1, 
+         coverage_0 = b0_lower <= 1 & 1 <= b0_upper,
+         coverage_1 = b1_lower <= -1 & -1 <= b1_upper,
+         se_0 = (b0 - 1)^2,
+         se_1 = (b1 + 1)^2) %>%
+  summarize(mean_runtime = mean(runtime),
+            mean_bias_0 = mean(bias_0),
+            mean_bias_1 = mean(bias_1),
+            coverage_prob_0 = mean(coverage_0),
+            coverage_prob_1 = mean(coverage_1),
+            mean_se_0 = mean(se_0),
+            mean_se_1 = mean(se_1),
+            mean_predmse = mean(pred_mse)
+            )
+```
+
+```{r, echo=FALSE}
+
+knitr::kable(summary, col.names=c("Method", "Runtime", "B0 Bias", "B0 Bias", "Coverage B0", "Coverage B1", "B0 MSE", "B1 MSE", "Pred MSE"), digits=3, caption="Summary Statistics Table")
+```
+
+
+```{r, echo=FALSE}
+run_outputs %>% ggplot(aes(x=b0, fill=method)) + geom_histogram(binwidth = 0.05) +
+  facet_wrap(~method) +
+  guides(fill=FALSE)+
+  labs(x="Estimated Intercept", y="Count of Simulations",
+       title="Histogram of estimated intercepts, by method")
+
+run_outputs %>% ggplot(aes(x=b1, fill=method)) + geom_histogram(binwidth = 0.05) +
+  facet_wrap(~method) +
+  guides(fill=FALSE)+
+  labs(x="Estimated slope", y="Count of Simulations",
+       title="Histogram of estimated slopes, by method")
+```
